@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.78125,28.2156601 L11.78125,21.0975 L11.78125,21.0975 C11.78125,19.9563416 12.7063416,19.03125 13.8475,19.03125 L13.8475,19.03125 L37.80875,19.03125 L37.80875,19.03125 C38.9499084,19.03125 39.875,19.9563416 39.875,21.0975 L39.875,45.05875 L39.875,45.05875 C39.875,46.1999084 38.9499084,47.125 37.80875,47.125 L30.0717468,47.125" id="path-1"></path>
+        <rect id="path-2" x="0" y="35.34375" width="22.65625" height="22.65625" rx="2.052"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="features-page-icons" transform="translate(-307.000000, -171.000000)">
+            <g id="2" transform="translate(311.000000, 175.000000)">
+                <path d="M23.665,12.6096772 L23.665,2.06625 C23.665,-0.0193152865 25.3556847,-1.71 27.44125,-1.71 L55.93375,-1.71 C58.0193153,-1.71 59.71,-0.0193152865 59.71,2.06625 L59.71,30.55875 C59.71,32.6443153 58.0193153,34.335 55.93375,34.335 L46.4960722,34.335 L23.665,12.6096772 Z" id="Rectangle-18-Copy-2" stroke="#3378A7" stroke-width="3.42" stroke-linejoin="round"></path>
+                <g id="Rectangle-18-Copy">
+                    <use fill="#F9F9F9" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#3378A7" stroke-width="3.42" d="M10.07125,28.9073598 L10.07125,21.0975 C10.07125,19.0119347 11.7619347,17.32125 13.8475,17.32125 L37.80875,17.32125 C39.8943153,17.32125 41.585,19.0119347 41.585,21.0975 L41.585,45.05875 C41.585,47.1443153 39.8943153,48.835 37.80875,48.835 L29.3467214,48.835 L10.07125,28.9073598 Z"></path>
+                </g>
+                <g id="Rectangle-18">
+                    <use fill="#F9F9F9" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#3378A7" stroke-width="3.42" x="-1.71" y="33.63375" width="26.07625" height="26.07625" rx="2.052"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

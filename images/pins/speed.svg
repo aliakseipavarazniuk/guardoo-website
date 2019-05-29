@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="52px" viewBox="0 0 86 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 40</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7,0 L71,0 C74.8659932,-7.10171439e-16 78,3.13400675 78,7 L78,37 C78,40.8659932 74.8659932,44 71,44 L7,44 C3.13400675,44 4.73447626e-16,40.8659932 0,37 L0,7 C-4.73447626e-16,3.13400675 3.13400675,-1.78006981e-16 7,-8.8817842e-16 Z" id="path-1"></path>
+        <filter x="-9.0%" y="-11.4%" width="117.9%" height="131.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.261605525 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="main-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-356.000000, -2849.000000)">
+        <g id="Group-19" transform="translate(360.000000, 2851.000000)">
+            <g id="Group-40">
+                <g id="Rectangle-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M33,49.5857864 L38.2928932,44.2928932 C38.6834175,43.9023689 39.3165825,43.9023689 39.7071068,44.2928932 L45,49.5857864 L33,49.5857864 Z" id="Path" fill="#FFFFFF" transform="translate(39.000000, 46.792893) rotate(-180.000000) translate(-39.000000, -46.792893) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

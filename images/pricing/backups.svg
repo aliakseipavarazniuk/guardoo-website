@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="59px" viewBox="0 0 65 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>6</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6" transform="translate(1.000000, 1.000000)">
+            <path d="M61.7910156,44.3840332 L56.0648265,4.43977697 C55.7606076,2.32218608 53.9464156,0.75 51.8070838,0.75 L11.3961753,0.75 C9.2643664,0.75 7.45416542,2.31143938 7.14140437,4.41943572 L1.07421875,44.9577637 L1.51730187,42.4359371" id="Rectangle-21-Copy" stroke="#2980B9" stroke-width="3.5"></path>
+            <rect id="Rectangle-21" stroke="#2980B9" stroke-width="3.5" x="0.75" y="38.387931" width="61.5" height="17.862069" rx="8.93103448"></rect>
+            <g id="Group-8" transform="translate(17.041936, 8.155172)">
+                <path d="M15.2197827,21.8706897 C21.2496103,21.8706897 26.1377514,16.974769 26.1377514,10.9353448 C26.1377514,4.89592065 21.2496103,0 15.2197827,0 C9.18995505,0 4.30181394,4.89592065 4.30181394,10.9353448" id="Oval-13" stroke="#2980B9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Path-22" stroke="#2980B9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="14.9658764 6.10344828 14.9658764 11.3697122 19.7838963 14.2205179"></polyline>
+                <path d="M4.49110282,15.156937 L0.793097218,10.0640868 L0.793097218,10.0640868 C0.711276394,9.95140413 0.736294875,9.79372788 0.848977559,9.71190705 C0.892045057,9.68063501 0.94390368,9.6637931 0.997127267,9.6637931 L8.39313846,9.6637931 L8.39313846,9.6637931 C8.53239375,9.6637931 8.64528246,9.77668182 8.64528246,9.9159371 C8.64528246,9.96916069 8.62844056,10.0210193 8.59716851,10.0640868 L4.89916291,15.156937 L4.89916291,15.156937 C4.81734209,15.2696196 4.65966584,15.2946381 4.54698316,15.2128173 C4.52553502,15.1972434 4.50667667,15.1783851 4.49110282,15.156937 Z" id="Triangle" fill="#2980B9" fill-rule="nonzero"></path>
+            </g>
+            <ellipse id="Oval-14" stroke="#2980B9" stroke-width="3.5" cx="52.828125" cy="47.3189655" rx="2.93498411" ry="2.93965517"></ellipse>
+        </g>
+    </g>
+</svg>

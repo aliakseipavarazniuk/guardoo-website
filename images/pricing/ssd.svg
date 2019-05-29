@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="45px" viewBox="0 0 98 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>10</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="features-page-icons" transform="translate(-309.000000, -1436.000000)" stroke="#3378A7">
+            <g id="10" transform="translate(309.000000, 1436.000000)">
+                <rect id="Rectangle-13" stroke-width="3.5" x="1.75" y="1.75" width="94.5" height="41.5" rx="7.95906"></rect>
+                <g id="Group-45" transform="translate(2.556522, 11.037736)" stroke-width="3.5">
+                    <g id="Group-8">
+                        <polyline id="Path-48" stroke-linecap="round" stroke-linejoin="round" points="0.852173913 0 10.9233202 0 10.9233202 22.9245283 0.852173913 22.9245283"></polyline>
+                        <path d="M0,7.75 L11.0782609,7.75" id="Path-49"></path>
+                        <path d="M0,15.75 L11.0782609,15.75" id="Path-49-Copy"></path>
+                    </g>
+                </g>
+                <polyline id="Path-50" stroke-width="3.06" stroke-linecap="round" stroke-linejoin="round" points="28.1217391 28.8679245 28.1217391 16.9811321 37.4956522 28.8679245 37.4956522 16.9811321"></polyline>
+                <polyline id="Path-51" stroke-width="3.06" stroke-linecap="round" stroke-linejoin="round" points="42.6086957 16.9811321 47.7412357 28.8679245 52.8347826 16.9811321"></polyline>
+                <polyline id="Path-52" stroke-width="3.06" stroke-linecap="round" stroke-linejoin="round" points="57.9478261 28.8679245 57.9478261 16.9811321 63.4869565 25.4904419 69.026087 16.9811321 69.026087 28.8679245"></polyline>
+                <path d="M75.0699806,23.9415086 L83.5130435,23.9415086 C83.3010791,20.4190401 81.7560519,18.6649815 78.8779618,18.6793326 C73.5489297,18.705905 72.0182516,26.9712921 77.9363879,28.688651 C79.1301315,29.0350584 81.0308215,28.9532815 82.3392928,27.7792078" id="Path-53" stroke-width="3.06" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
