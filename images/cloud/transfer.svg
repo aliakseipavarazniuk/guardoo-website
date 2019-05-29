@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="53px" viewBox="0 0 107 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.446616305,40.5745338 L5.81853073,4.63824629 C6.21805729,1.97330121 8.52964213,4.94901362e-16 11.251913,0 L47.9325838,0 C50.6644611,-1.29450297e-15 52.9811424,1.98688257 53.3696229,4.66303171 L58.7104736,41.0907138" id="path-1"></path>
+        <rect id="path-2" x="0" y="33.8103448" width="59" height="19.1896552" rx="9.59482759"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="features-page-icons" transform="translate(-316.000000, -1235.000000)">
+            <g id="7" transform="translate(316.000000, 1235.000000)">
+                <g id="Group-9-Copy">
+                    <g id="Rectangle-21-Copy">
+                        <use fill="#FAFAFA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <path stroke="#2980B9" stroke-width="3.5" d="M2.4749824,38.8424351 L56.682544,39.3226789 L51.6377751,4.91443371 C51.3746634,3.10192045 49.7983403,1.75 47.9325838,1.75 L11.251913,1.75 C9.3926973,1.75 7.81979153,3.09272245 7.54930004,4.89696931 L2.4749824,38.8424351 Z"></path>
+                    </g>
+                    <g id="Rectangle-21">
+                        <use fill="#FAFAFA" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#2980B9" stroke-width="3.5" x="1.75" y="35.5603448" width="55.5" height="15.6896552" rx="7.84482759"></rect>
+                    </g>
+                    <ellipse id="Oval-14" stroke="#2980B9" stroke-width="3.15" cx="48.859375" cy="43.4051724" rx="2.6640625" ry="2.64070719"></ellipse>
+                </g>
+                <path d="M30,28 C35.5228475,28 40,23.5228475 40,18 C40,12.4771525 35.5228475,8 30,8 C24.4771525,8 20,12.4771525 20,18" id="Oval-13" stroke="#2980B9" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Path-22" stroke="#2980B9" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" points="30 14 30 18.5415216 34 21"></polyline>
+                <path d="M20.3158767,21.9037306 L17.0425281,17.359567 L17.0425281,17.359567 C16.9692745,17.2578741 16.9923291,17.1160519 17.094022,17.0427982 C17.1326507,17.0149724 17.1790522,17 17.2266595,17 L23.7733566,17 L23.7733566,17 C23.8986864,17 24.0002862,17.1015998 24.0002862,17.2269296 C24.0002862,17.2745368 23.9853138,17.3209384 23.957488,17.359567 L20.6841394,21.9037306 L20.6841394,21.9037306 C20.6108858,22.0054235 20.4690636,22.0284782 20.3673706,21.9552245 C20.3475458,21.9409439 20.3301573,21.9235554 20.3158767,21.9037306 Z" id="Triangle" fill="#2980B9"></path>
+                <g id="Group-32" transform="translate(90.000000, 14.000000)" stroke="#2980B9" stroke-width="3.5">
+                    <circle id="Oval-17-Copy-7" cx="8" cy="6" r="6"></circle>
+                    <path d="M15,26 C13.9159349,20 11.4159349,17 7.5,17 C3.58406508,17 1.08406508,20 0,26 L15,26 Z" id="Oval-17-Copy-11" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+                <path d="M65.4248047,25.7265625 L79.5009766,25.7265625" id="Path-88" stroke="#2980B9" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Path-89" stroke="#2980B9" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" points="78.0571289 19.9970703 81.7021484 25.4228516 78.0571289 30.8447266"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

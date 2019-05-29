@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="88px" viewBox="0 0 96 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>6</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="apps" transform="translate(-1182.000000, -319.000000)" fill-rule="nonzero" fill="#2473A7">
+            <g id="6" transform="translate(1182.000000, 319.000000)">
+                <polygon id="Fill-4" points="47.5 88 47.5 88 65 34 30 34"></polygon>
+                <path d="M5.55088554,34 L5.55088554,34 L0.179386588,50.4101042 C-0.310553403,51.9067616 0.22604754,53.5464552 1.50876625,54.4714222 L48,88 L5.55088554,34 Z" id="Fill-12"></path>
+                <path d="M6,34 L31,34 L20.2559046,1.26336007 C19.7033036,-0.421348545 17.2962347,-0.420891489 16.7436338,1.26336007 L6,34 Z" id="Fill-16"></path>
+                <path d="M90.4491145,34 L90.4491145,34 L95.8206134,50.4101042 C96.3105534,51.9067616 95.7739525,53.5464552 94.4912338,54.4714222 L48,88 L90.4491145,34 Z" id="Fill-20"></path>
+                <path d="M91,34 L66,34 L76.7440954,1.26336007 C77.2966964,-0.421348545 79.7037653,-0.420891489 80.2563662,1.26336007 L91,34 Z" id="Fill-22"></path>
+            </g>
+        </g>
+    </g>
+</svg>

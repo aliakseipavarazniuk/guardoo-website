@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="38px" viewBox="0 0 36 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>9</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bug-bounty" transform="translate(-1022.000000, -1096.000000)">
+            <g id="9" transform="translate(1023.000000, 1097.000000)">
+                <path d="M30.2984562,27.8345699 C32.6152533,24.9037722 34,21.1900069 34,17.1499637 C34,7.67830027 26.3888407,0 17,0 C7.61115925,0 0,7.67830027 0,17.1499637 C0,26.621627 7.61115925,34.2999273 17,34.2999273 C19.2297462,34.2999273 21.3592294,33.8668634 23.3103124,33.079562 L32.2574289,36 L30.2984562,27.8345699 Z" id="Oval-2-Copy" stroke="#2980B9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(17.000000, 18.000000) scale(-1, 1) translate(-17.000000, -18.000000) "></path>
+                <g id="Group-6" transform="translate(13.000000, 9.000000)">
+                    <path d="M4.43690161,12.244043 L4.43690161,9.4653901 C6.88733471,9.4653901 8.87380322,7.34649035 8.87380322,4.73269505 C8.87380322,2.11889975 6.88733471,0 4.43690161,0 C1.98646851,0 0,2.11889975 0,4.73269505" id="Oval-3" stroke="#2980B9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <ellipse id="Oval-4" fill="#2980B9" cx="4.5" cy="16.8" rx="1.125" ry="1.2"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
