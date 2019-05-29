@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="76px" viewBox="0 0 95 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>7</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main-page-icons" transform="translate(-787.000000, -520.000000)">
+            <g id="7" transform="translate(789.333333, 520.000000)">
+                <g id="Group-2" transform="translate(0.000000, 16.860759)" stroke="#3479A7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M13.4666667,51 L23.5841243,51" id="Path-44"></path>
+                    <path d="M13.4666667,2 L23.584,2" id="Path-44-Copy"></path>
+                    <path d="M2.26666667,14 L16.1174576,14" id="Path-44-Copy-2"></path>
+                    <path d="M2.26666667,39 L16.1173333,39" id="Path-44-Copy-3"></path>
+                    <path d="M0,26 L15.1841243,26" id="Path-44-Copy-4"></path>
+                </g>
+                <g id="Group" transform="translate(25.600000, 0.000000)">
+                    <ellipse id="Oval-23" stroke="#3479A7" stroke-width="4" cx="32.2" cy="41.6835443" rx="32.2" ry="32.3164557"></ellipse>
+                    <polyline id="Path-43" stroke="#3479A7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="32.1945313 25.2911392 32.1945313 44.3820708 45.6102865 55.20179"></polyline>
+                    <path d="M54.9102423,10.6986863 L56.6865833,10.6986863 L56.6865833,10.6986863 C58.7432917,10.6986863 60.4105833,12.3659779 60.4105833,14.4226863 L60.4105833,16.4847501 L51.1862423,16.4847501 L51.1862423,14.4226863 L51.1862423,14.4226863 C51.1862423,12.3659779 52.8535339,10.6986863 54.9102423,10.6986863 Z" id="Rectangle-13-Copy" fill="#3479A7" transform="translate(55.798413, 13.591718) rotate(39.000000) translate(-55.798413, -13.591718) "></path>
+                    <path d="M32,8.90605222 L32,1.87341772" id="Path-45" stroke="#3479A7" stroke-width="4"></path>
+                    <path d="M25.2,2 L38.2666667,2" id="Path-46" stroke="#3479A7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
